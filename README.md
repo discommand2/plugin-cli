@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-cli
+Creates a command-line interface for direct user interaction with the brain.
